@@ -1,0 +1,12 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class App
+{
++main(String[] args)
+
++printCreatedWebsite((String webName, char jsDirectory, char cssDirectory)
+
++createDirectories(String siteName, char jsFolder, char cssFolder, String authorName)
+}
+@enduml
